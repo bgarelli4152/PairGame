@@ -1,0 +1,7 @@
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Gold Badge\CSHARP_Challenges\PairGame\bin\Debug\PairGame.exe.config
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Gold Badge\CSHARP_Challenges\PairGame\bin\Debug\PairGame.exe
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Gold Badge\CSHARP_Challenges\PairGame\bin\Debug\PairGame.pdb
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Gold Badge\CSHARP_Challenges\PairGame\obj\Debug\PairGame.csprojAssemblyReference.cache
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Gold Badge\CSHARP_Challenges\PairGame\obj\Debug\PairGame.csproj.CoreCompileInputs.cache
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Gold Badge\CSHARP_Challenges\PairGame\obj\Debug\PairGame.exe
+C:\Users\bgare\Desktop\ElevenFiftyProjects\Gold Badge\CSHARP_Challenges\PairGame\obj\Debug\PairGame.pdb
